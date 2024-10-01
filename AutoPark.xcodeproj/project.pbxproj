@@ -16,6 +16,7 @@
 		BAD8C72F2CAAEFC000C5DB87 /* AutoParkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD8C72E2CAAEFC000C5DB87 /* AutoParkTests.swift */; };
 		BAD8C7392CAAEFC000C5DB87 /* AutoParkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD8C7382CAAEFC000C5DB87 /* AutoParkUITests.swift */; };
 		BAD8C73B2CAAEFC000C5DB87 /* AutoParkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD8C73A2CAAEFC000C5DB87 /* AutoParkUITestsLaunchTests.swift */; };
+		BAD8C74C2CAB017700C5DB87 /* newAutoPark.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD8C74B2CAB017700C5DB87 /* newAutoPark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BAD8C7342CAAEFC000C5DB87 /* AutoParkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoParkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAD8C7382CAAEFC000C5DB87 /* AutoParkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoParkUITests.swift; sourceTree = "<group>"; };
 		BAD8C73A2CAAEFC000C5DB87 /* AutoParkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoParkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BAD8C74B2CAB017700C5DB87 /* newAutoPark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newAutoPark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		BAD8C70B2CAAEFBF00C5DB87 = {
 			isa = PBXGroup;
 			children = (
+				BAD8C74B2CAB017700C5DB87 /* newAutoPark.swift */,
 				BAD8C7162CAAEFBF00C5DB87 /* AutoPark */,
 				BAD8C72D2CAAEFC000C5DB87 /* AutoParkTests */,
 				BAD8C7372CAAEFC000C5DB87 /* AutoParkUITests */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BAD8C71C2CAAEFBF00C5DB87 /* ViewController.swift in Sources */,
+				BAD8C74C2CAB017700C5DB87 /* newAutoPark.swift in Sources */,
 				BAD8C7182CAAEFBF00C5DB87 /* AppDelegate.swift in Sources */,
 				BAD8C71A2CAAEFBF00C5DB87 /* SceneDelegate.swift in Sources */,
 			);
